@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "server for the camera feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThurunuInsharp/CameraFeed_Backend_Server.git"
+  },
+  "author": "Thurunu Chalitha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThurunuInsharp/CameraFeed_Backend_Server/issues"
+  },
+  "homepage": "https://github.com/ThurunuInsharp/CameraFeed_Backend_Server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
